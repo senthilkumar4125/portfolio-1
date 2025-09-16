@@ -102,7 +102,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing B.E degree in Computer Science Engineering.<br><br>I can comfortably with ci/cd delivery and automation and cloud services :<br>CLOUD PLATFORMS :<br><span class='bold'>Ec2<br>S3<br>Iam<br>Vpc<br>Cloudwatch<br></span><br><br>I've experiance with devops tools :<span class='bold'><br>github<br>docker<br>jenkins<br>terraform</span><br><br>I use <span class='bold'>Arch Linux and window</span> Operating Systems<br><br><br>Favourite IDE:VSCode</span>");
+            sendTextMessage("<span class='sk'>I am currently pursuing B.E degree in Computer Science Engineering.<br><br>I can comfortably with ci/cd delivery and automation and cloud services :<br>CLOUD PLATFORMS :<br><span class='bold'>Ec2<br>S3<br>Iam<br>Vpc<br>Cloudwatch<br></span><br><br>I've experiance with devops tools :<span class='bold'><br>github<br>docker<br>ansible<br>terraform <br>minkube<br>grafana<br>prometheus<br>alertmanager<br>active-manager<br>node-exporter<br>jenkins<br>terraform</span><br><br>I use <span class='bold'>Arch Linux and window</span> Operating Systems<br><br><br>Favourite IDE:VSCode</span>");
             break;
 
         case "education":
